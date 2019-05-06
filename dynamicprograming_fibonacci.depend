@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1545864664 source:e:\project c\dynamicprograming_fibonacci\main.c
+	<stdio.h>
+	<stdlib.h>
+
